@@ -51,13 +51,12 @@ export default function Header() {
                 </li>
 
                 <li>
-                  <Link href="/electioninfo" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Election Info</Link>
+                  <Link href="/checkregisterstatus" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Check Registration</Link>
                 </li>
 
                 <li>
-                  <Link href="/getinvolved" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Get Involved</Link>
+                  <Link href="/electioninfo" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Election Info</Link>
                 </li>
-
                 <li>
                   <Link href="/signin" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Sign in</Link>
                 </li>

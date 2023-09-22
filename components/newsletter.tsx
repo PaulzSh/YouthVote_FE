@@ -37,8 +37,8 @@ export default function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Want more tutorials & guides?</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <h3 className="h3 text-white mb-2">Need more details?</h3>
+                <p className="text-gray-300 text-lg mb-6">If you have any difficulty voting by mail or at your polling place, contact the Election Protection Program: 1-866-OUR-VOTE (1-866-687-8683)</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">

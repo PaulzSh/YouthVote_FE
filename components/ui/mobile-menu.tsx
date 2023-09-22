@@ -75,10 +75,10 @@ export default function MobileMenu() {
               <Link href="/register" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Register to Vote</Link>
             </li>
             <li>
-              <Link href="/electioninfo" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Election Info</Link>
+              <Link href="/checkregisterstatus" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Check Registration</Link>
             </li>
             <li>
-              <Link href="/getinvolved" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Get Involved</Link>
+              <Link href="/electioninfo" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Election Info</Link>
             </li>
 
             <li>
